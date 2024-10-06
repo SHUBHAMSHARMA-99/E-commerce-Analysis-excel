@@ -58,6 +58,7 @@ The primary objectives of this analysis are as follows:
    - Total Profit: 4M
 
 ## 2. Delivery Days vs Review Score
+![Screenshot 2024-10-06 224713](https://github.com/user-attachments/assets/b60825c8-79ba-46f7-9e4b-5fb020e4b255)
 
 The relationship between delivery time and customer satisfaction is one of the most telling insights of the analysis. As delivery times decrease, review scores show a clear upward trend, suggesting that faster deliveries lead to happier customers.
 
@@ -68,6 +69,7 @@ The relationship between delivery time and customer satisfaction is one of the m
 ---
 
 ## 3. Orders by Payment Method (Credit Card)
+![Screenshot 2024-10-06 225354](https://github.com/user-attachments/assets/4cf15a1b-fa97-4deb-89fb-88d72a179ff4)
 
 Credit card payments emerge as a dominant payment method among customers, particularly those who gave higher review scores. This could indicate that customers who use credit cards for purchases might expect a more seamless shopping and payment experience, and this contributes to their satisfaction.
 
@@ -80,6 +82,7 @@ This analysis underscores the need to ensure that payment processes remain effic
 ---
 
 ## 4. Weekday vs Weekend Payments
+![Screenshot 2024-10-06 224744](https://github.com/user-attachments/assets/5516cbe5-c8ba-4185-a01e-08ec91cf02ad)
 
 A clear difference in customer behavior is observed between weekday and weekend sales. The analysis reveals that customers are far more active during the week, which could be linked to several factors, such as work-week schedules, higher engagement in online shopping, or even targeted promotions.
 
@@ -90,6 +93,7 @@ A clear difference in customer behavior is observed between weekday and weekend 
 ---
 
 ## 5. Category-wise Delivery Time
+![Screenshot 2024-10-06 224724](https://github.com/user-attachments/assets/eb6829dc-511b-411c-8c05-25aa6199ead7)
 
 Different product categories have different average delivery times, which is a critical factor in determining customer satisfaction within each category. Addressing the outliers where delivery times are particularly high could enhance customer satisfaction across categories.
 
@@ -102,6 +106,7 @@ Addressing delivery inefficiencies in product categories such as Fashion Calçad
 ---
 
 ## 6. Sao Paulo Insights
+![Screenshot 2024-10-06 224758](https://github.com/user-attachments/assets/9ae189e0-47bd-4f26-99fd-a0c94c7df400)
 
 The data from Sao Paulo, one of the most significant markets, reveals two important trends regarding pricing and payment values. These trends could reflect regional pricing strategies, taxes, or additional charges that influence the overall payment value.
 
