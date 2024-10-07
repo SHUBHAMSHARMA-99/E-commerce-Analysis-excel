@@ -1,4 +1,5 @@
 # Olist Store Sales Analysis
+![image](https://github.com/user-attachments/assets/9f5883f3-6b87-48cd-805d-669fa6b19277)
 
 ## 🏆 Overview
 This project presents a comprehensive sales analysis of Olist, focusing on customer metrics, delivery performance, payment trends, and overall sales data. The analysis is performed using Excel, supported by visual dashboards to uncover valuable insights. Through this project, we aim to assist Olist in improving operational efficiency, understanding customer behavior, and optimizing payment methods.
