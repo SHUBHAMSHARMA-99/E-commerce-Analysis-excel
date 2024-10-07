@@ -1,6 +1,25 @@
-# Olist Store Sales Analysis
-![image](https://github.com/user-attachments/assets/9f5883f3-6b87-48cd-805d-669fa6b19277)
+# Olist Store Sales Analysis 
 
+![image](https://github.com/user-attachments/assets/9f5883f3-6b87-48cd-805d-669fa6b19277)
+## Table of Contents
+
+| Section | Description |
+|---------|-------------|
+| [🏆 Overview](#-overview) | Provides a summary of the project's focus on sales analysis for Olist |
+| [📝 Introduction](#-introduction) | Introduction to Olist and the importance of analyzing its sales data |
+| [🚨 Business Problem](#-business-problem) | Outlines the key challenges Olist faces in scaling profitably |
+| [🎯 Objectives](#-objectives) | Describes the goals of the sales analysis for better decision-making |
+| [🛠️ Tools Used](#%EF%B8%8F-tools-used) | List of tools used for data processing, visualization, and analysis |
+| [🔑 Key Insights from the Dashboard](#-key-insights-from-the-dashboard) | Detailed insights derived from the data analysis |
+| [1. Total Metrics Overview](#1-total-metrics-overview) | Summary of total customers, sales, and profit metrics |
+| [2. Delivery Days vs Review Score](#2-delivery-days-vs-review-score) | Analysis of how delivery time affects customer satisfaction |
+| [3. Orders by Payment Method (Credit Card)](#3-orders-by-payment-method-credit-card) | Breakdown of orders based on payment method and review scores |
+| [4. Weekday vs Weekend Payments](#4-weekday-vs-weekend-payments) | Comparison of customer purchasing behavior on weekdays vs weekends |
+| [5. Category-wise Delivery Time](#5-category-wise-delivery-time) | Insight into delivery times across different product categories |
+| [6. Sao Paulo Insights](#6-sao-paulo-insights) | Analysis of sales data specific to the Sao Paulo region |
+| [DASHBOARD](#dashboard) | Visual representation of key metrics and trends in the form of a dashboard |
+| [🔍 Conclusion](#-conclusion) | Summarizes the main takeaways from the analysis |
+| [📈 Recommendation](#-recommendation) | Actionable strategies to improve sales performance and customer satisfaction |
 ## 🏆 Overview
 This project presents a comprehensive sales analysis of Olist, focusing on customer metrics, delivery performance, payment trends, and overall sales data. The analysis is performed using Excel, supported by visual dashboards to uncover valuable insights. Through this project, we aim to assist Olist in improving operational efficiency, understanding customer behavior, and optimizing payment methods.
 
